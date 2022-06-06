@@ -1,0 +1,2 @@
+Τί πρέπει να κάνουμε:
+0) Kανονικοποίηση των στηλών: Temperature (χωρίς δεκαδικά), Side (0 και 1), Temperature (διακριτοποίηση σε High,Low,Medium)?, Weather_Condition (διακριτοποίηση)
