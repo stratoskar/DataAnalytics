@@ -1,6 +1,6 @@
 Τί πρέπει να κάνουμε:
 
+1)  Eφαρμογή δεύτερου αλγορίθμου ταξινόμησης
+https://www.google.com/search?q=Support+Vector+classifier&oq=Support+Vector+classifier&aqs=chrome..69i57j0i512l2j0i22i30l7.422j0j7&sourceid=chrome&ie=UTF-8
 
-1) Χωρισμός του dataset σε train και feature
-2) Εφαρμογή του Bayes
-
+2) understand what confusion matrix is
