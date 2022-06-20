@@ -1,6 +1,5 @@
 Τί πρέπει να κάνουμε:
 
-1)  Eφαρμογή δεύτερου αλγορίθμου ταξινόμησης
-https://www.google.com/search?q=Support+Vector+classifier&oq=Support+Vector+classifier&aqs=chrome..69i57j0i512l2j0i22i30l7.422j0j7&sourceid=chrome&ie=UTF-8
-
-2) understand what confusion matrix is
+1) Ξεκινάμε το τρίτο ερώτημα
+1.1) βρίσκουμε ιστορία 
+1.2) βρίσκουμε πρώτο μοντελο μηχανικής μάθησης
