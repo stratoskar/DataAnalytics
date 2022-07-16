@@ -1,4 +1,4 @@
-#We have used the following Data Analysis schedule here:
+We have used the following Data Analysis schedule here:
 
 1) Data preparation
 2) Data clustering techniques
