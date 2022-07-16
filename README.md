@@ -1,7 +1,4 @@
-# DataAnalytics
-This repository contains the excersise in data analytics in python, 6th peek
-
-We have used the following Data Analysis schedule here:
+#We have used the following Data Analysis schedule here:
 
 1) Data preparation
 2) Data clustering techniques
